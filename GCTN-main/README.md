@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GCTN
 This is a Tensorflow implementation for GCTN and a part of baselines:
 
@@ -18,6 +17,5 @@ python setup.py build_ext --inplace
 ```
 If the compilation is successful, the evaluator of cpp implementation will be called automatically.
 Otherwise, the evaluator of python implementation will be called.
-NOTE: The cpp implementation is much faster than python.**
-=======
+
 

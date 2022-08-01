@@ -20,5 +20,4 @@ If the compilation is successful, the evaluator of cpp implementation will be ca
 Otherwise, the evaluator of python implementation will be called.
 NOTE: The cpp implementation is much faster than python.**
 =======
-# GCTN-main
->>>>>>> bfd8fe278c6771a744d2321449bcce4aa69c321c
+
